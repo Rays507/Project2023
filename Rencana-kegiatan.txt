@@ -3,3 +3,4 @@
 +maret 2023
   - belajar framework CI
   - belajar memakai GIT
+  - Pemberian pupuk ke tanaman tgl 17 dan 31 maret 2023
