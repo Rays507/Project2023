@@ -1,1 +1,5 @@
+# Rencana Kegiatan 2023
 
++maret 2023
+  - belajar framework CI
+  - belajar memakai GIT
