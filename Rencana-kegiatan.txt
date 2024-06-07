@@ -1,8 +1,16 @@
 # Rencana Kegiatan 2023
 
 +maret 2023
-  - belajar framework CI
-  - belajar memakai GIT
-  - Pemberian pupuk ke tanaman tgl 17 dan 31 maret 2023
-  - belajar memosting web ke web hosting
-  - buat 2 graphic desain saat bulan ramadhan
+  - belajar framework CI (-)
+  - belajar memakai GIT (-)
+  - Pemberian pupuk ke tanaman tgl 17 dan 31 maret 2023 (-)
+  - belajar memosting web ke web hosting (-)
+  - buat 2 graphic desain saat bulan ramadhan (-)
+
+# Rencana kegiatan 2024
+ - buat 1 web profile arsya (bimbingan belajar punya mas putra)
+ - buat 1 web profile herbal-cofee (punya ghilman)
+ - buat 1 web profile mesjid
+ - angkut barang dari cibitung ke pondok sani
+ - patungan hewan qurban (done)
+ - pindah kerja front end
