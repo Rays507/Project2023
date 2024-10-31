@@ -14,3 +14,5 @@
  - angkut barang dari cibitung ke pondok sani
  - patungan hewan qurban (done)
  - pindah kerja front end
+ - hang out ke ragunan
+ - lulus basic dicoding
